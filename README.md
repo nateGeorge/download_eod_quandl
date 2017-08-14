@@ -17,4 +17,4 @@ Then change the `download_all.sh` to be executable:
 
 `sudo chmod a+x download_all.sh`
 
-and run the bash script `download_all.sh`.  This will execute the python scripts to download all the EOD data and the metadata.  The files will be in the folder `data` in the main repo folder.
+and run the bash script like `./download_all.sh`.  This will execute the python scripts to download all the EOD data and the metadata.  The files will be in the folder `data` in the main repo folder.
