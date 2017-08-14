@@ -1,0 +1,2 @@
+python3 download_all_metadata_detailed.py
+python3 download_full_eod_prices.py
